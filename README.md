@@ -1,2 +1,2 @@
 # mesos
-Reference Implementation for MonesignOS
+Reference Implementation for MonesignOS.
